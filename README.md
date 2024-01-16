@@ -17,6 +17,17 @@ let b = "mare";
 ||
 ```
 
+bonus- Stampa l'albero completo:
+```
+     *
+    ***
+   ***** 
+  *******
+ *********
+     |
+```
+
+
 3- Dato questo array di numeri crea due array, uno con tutti i numeri pari e l'altro con tutti quelli dispari
 
 ```js
@@ -30,8 +41,6 @@ const nomi = ["Amelia", "Ciro","Edoardo", "Giovanni", "Guido", "Lucia", "Marco",
 ```
 
 5- Scrivi un ciclo for che stampa in console il countdown da 10 a 0, poi trasforma il ciclo for in un ciclo while.
-
-
 
 super bonus - Data una stringa contenente una frase stampane la cornicetta
 
