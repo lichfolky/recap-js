@@ -1,6 +1,4 @@
-1. Dato un numero ottenuto dall'utente attraverso un [`prompt()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt?retiredLocale=it) stampare in console tutti i numeri da 1 a quel numero.
-
-1. Potrebbe servirti questo: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt]
+1. Dato un numero ottenuto dall'utente attraverso un [`prompt()`](https://developer.mozilla.org/en-US/docs/Web/API/Window/prompt?retiredLocale=it) stampare in console tutti i numeri da 1 a quel numero. Potrebbe servirti questo: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/parseInt]
 
 1. Scrivi la riga della tabellina del 8, però con 100 elementi `es: 1, 8 ,16 ...`
 
