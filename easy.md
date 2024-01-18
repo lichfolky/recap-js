@@ -4,7 +4,6 @@
 
 2. Conta quante volte compare il numero 5 in questo array usando un for, stampalo su schermo usando un elemento html `let numeri = [9,5,3,9,5,3,1,2,4,5,6,0,1,2,4,,2,4,5,6,9,5,3,1,2,4,5,6,0,9,5,3,1,2,4,5,6,0,5,6,0]`
 
-1. Crea un button che aggiunge un quadratino colorato alla pagina ogni volta che viene premuto. Dovrai usare un [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) che al click del pulsante crea un nuovo elemento create [createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement).
+3. Crea un button che aggiunge un quadratino colorato alla pagina ogni volta che viene premuto. Dovrai usare un [addEventListener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) che al click del pulsante crea un nuovo elemento con [createElement](https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement).
  
-
-1. SUPER BONUS Crea un semplice calendario dell'avvento, 25 celle numerate disposte in griglia (puoi usare `flex` e `flex-wrap`). Quando vengono cliccate rivelano l'immagine che nascondono. Per le immagini puoi usare [https://picsum.photos/]
+4. SUPER BONUS Crea un semplice calendario dell'avvento, 25 celle numerate disposte in griglia (puoi usare `flex` e `flex-wrap`). Quando vengono cliccate rivelano l'immagine che nascondono. Per le immagini puoi usare [https://picsum.photos/]
