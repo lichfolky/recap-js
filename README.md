@@ -1,3 +1,4 @@
+> Qui trovi degli [esercizi molto facili](easy.md) per verificare le tue basi
 
 1- Scambia il contenuto di due variabili a e b, in modo che la prima contenga il valore contenuto nella seconda e viceversa:
 
@@ -26,7 +27,6 @@ bonus- Stampa l'albero completo:
  *********
      |
 ```
-
 
 3- Dato questo array di numeri crea due array, uno con tutti i numeri pari e l'altro con tutti quelli dispari
 
