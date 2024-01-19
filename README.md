@@ -1,4 +1,4 @@
-> Qui trovi degli [esercizi molto facili](easy.md) per verificare le tue basi
+> Oltre a questi puoi guardare [esercizi molto facili](easy.md) per verificare le tue basi, oppure [esercizi di media difficoltà](medium.md) per metterle alla prova.
 
 1. Scambia il contenuto di due variabili a e b, in modo che la prima contenga il valore contenuto nella seconda e viceversa:
 
